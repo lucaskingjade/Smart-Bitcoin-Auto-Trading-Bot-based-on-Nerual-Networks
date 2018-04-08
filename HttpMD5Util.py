@@ -10,6 +10,7 @@ Created on Sat Jan 13 13:38:58 2018
 #用于进行http请求，以及MD5加密，生成签名的工具类
 
 import http.client
+#import httplib
 import urllib
 import json
 import hashlib

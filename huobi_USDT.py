@@ -9,6 +9,7 @@ import requests
 import json
 import time
 import pandas as pd
+import matplotlib
 from matplotlib import pyplot as plt
 def get_usdt_price():
     user_agent='Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'

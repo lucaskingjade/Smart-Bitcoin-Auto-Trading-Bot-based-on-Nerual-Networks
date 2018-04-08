@@ -1,0 +1,7 @@
+*.pyc
+/smart_bitcoin
+/smartbitcoin
+*.pem
+/.idea
+__pycache__
+/.ipynb_checkpoints
